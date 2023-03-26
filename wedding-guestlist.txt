@@ -1,7 +1,7 @@
 person A
 person B
 person C
-person D
+
 person E
 person Y
 person Z
